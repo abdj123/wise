@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "606079748824",
+    "project_id": "c-w-s-development-3s575q",
+    "storage_bucket": "c-w-s-development-3s575q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606079748824:android:d8237eb61a79a998e065ad",
+        "android_client_info": {
+          "package_name": "com.mycompany.cwsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606079748824-9g3eg7926qqv58pgulcs8knth7fkh2j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cwsproject",
+            "certificate_hash": "9a234231e96db985ea02f4f2d3c333f070eaa570"
+          }
+        },
+        {
+          "client_id": "606079748824-rmfhurvo79inhckk5u5vp2lj5r7fsv91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cwsproject",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "606079748824-0gbvvacocv2o5453p79r5jm69htrkaj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEb0gXxNDKJeDymAYVGKfUpH07Z7UJY0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606079748824-0gbvvacocv2o5453p79r5jm69htrkaj0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606079748824-jjbi95osvehl7gp16uipr6m2r4mlfn5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cwsproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
